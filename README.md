@@ -1,6 +1,6 @@
 # Hello, I'm Obi! 👋
 
-I'm an enthusiastic backend/cloud/devOps engineering student and associate with a keen interest in building robust infrastructures and exploring cloud and DevOps technologies. I'm currently honing my skills in deploying cloud-native applications and optimizing system performance. As a lifelong learner, I'm dedicated to expanding my knowledge and gaining hands-on experience in designing scalable and resilient solutions. 
+I'm an enthusiastic backend/cloud/devOps engineering student and associate with a keen interest in building robust infrastructures and exploring cloud and DevOps technologies. I'm currently honing my skills in deploying cloud-native applications and optimizing system performance. As a lifelong learner, I'm dedicated to expanding my knowledge and gaining hands-on experience in designing scalable and resilient solutions. <br>
 With a focus on continuous improvement, I embrace challenges and actively seek opportunities to grow as a professional. Join me on this exciting journey as I navigate the world of backend engineering, leveraging cloud platforms and devOps practices to create innovative solutions that deliver exceptional user experiences. Let's learn, collaborate, and build together!
 
 ## 💻 Technologies & Tools
