@@ -1,6 +1,7 @@
 # Hello, I'm Obi! 👋
 
-I'm a backend/cloud/devops engineering student passionate about building scalable and efficient software solutions.
+I'm an aspiring Backend Engineering professional with a passion for crafting scalable and resilient infrastructures. Fascinated by the complexities of distributed systems, I specialize in deploying cloud-native applications, leveraging containerization technologies, and orchestrating microservices with Kubernetes. My goal is to optimize performance, enhance reliability, and enable organizations to deliver exceptional user experiences. Join me on this transformative journey as we shape the digital landscape through the fusion of infrastructure expertise and cutting-edge technologies. Let's build the foundations of tomorrow's digital world together!
+
 
 ## 💻 Technologies & Tools
 
@@ -24,6 +25,7 @@ I'm a backend/cloud/devops engineering student passionate about building scalabl
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elastic-stack&logoColor=white&style=for-the-badge)
 
+
 <!--
 ## 🚀 Projects & Contributions
 
@@ -35,6 +37,7 @@ I'm a backend/cloud/devops engineering student passionate about building scalabl
 
 ![Demo GIF](path/to/demo.gif)
 -->
+
 ## 🔗 Connect with Me
 
 You can find me on:
@@ -44,7 +47,7 @@ You can find me on:
 - [Website/Blog](https://obimadu.pro)
 
 <!--
-## 🔗 My Stats
+## 🔗 My Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=obimadu&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obimadu&hide=TeX&layout=compact)
