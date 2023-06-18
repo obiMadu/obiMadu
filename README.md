@@ -1,29 +1,31 @@
 # Hello, I'm Obi! 👋
 
-I'm an enthusiastic Backend/Cloud/DevOps Engineering student and associate with a keen interest in building robust infrastructures and exploring cloud and DevOps technologies. I'm currently honing my skills in deploying cloud-native applications and optimizing system performance. As a lifelong learner, I'm dedicated to expanding my knowledge and gaining hands-on experience in designing scalable and resilient solutions. With a focus on continuous improvement, I embrace challenges and actively seek opportunities to grow as a professional. Join me on this exciting journey as I navigate the world of backend engineering, leveraging cloud platforms and DevOps practices to create innovative solutions that deliver exceptional user experiences. Let's learn, collaborate, and build together!
+I'm an enthusiastic backend/cloud/devOps engineering student and associate with a keen interest in building robust infrastructures and exploring cloud and DevOps technologies. I'm currently honing my skills in deploying cloud-native applications and optimizing system performance. As a lifelong learner, I'm dedicated to expanding my knowledge and gaining hands-on experience in designing scalable and resilient solutions. 
+With a focus on continuous improvement, I embrace challenges and actively seek opportunities to grow as a professional. Join me on this exciting journey as I navigate the world of backend engineering, leveraging cloud platforms and devOps practices to create innovative solutions that deliver exceptional user experiences. Let's learn, collaborate, and build together!
 
 ## 💻 Technologies & Tools
 
-- **Languages** <br>
+### **Languages** <br>
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=linux&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
 
-- **Platforms** <br>
+### **Platforms** <br>
 ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-007FFF?logo=microsoft-azure&logoColor=white&style=for-the-badge)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
 
-- **Infrastructure** <br>
+### **Infrastructure** <br>
 ![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20Automation-623CE4?logo=terraform&logoColor=623CE4&style=for-the-badge)
 ![Github](https://img.shields.io/badge/Github%20Actions-CI%2FCD-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=2496ED&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 
-- **Monitoring & Logging** <br>
+<!--
+### **Monitoring & Logging** <br>
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elastic-stack&logoColor=white&style=for-the-badge)
-
+-->
 
 <!--
 ## 🚀 Projects & Contributions
