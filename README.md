@@ -1,7 +1,6 @@
 # Hello, I'm Obi! 👋
 
-I'm an aspiring Backend Engineering professional with a passion for crafting scalable and resilient infrastructures. Fascinated by the complexities of distributed systems, I specialize in deploying cloud-native applications, leveraging containerization technologies, and orchestrating microservices with Kubernetes. My goal is to optimize performance, enhance reliability, and enable organizations to deliver exceptional user experiences. Join me on this transformative journey as we shape the digital landscape through the fusion of infrastructure expertise and cutting-edge technologies. Let's build the foundations of tomorrow's digital world together!
-
+I'm an enthusiastic Backend/Cloud/DevOps Engineering student and associate with a keen interest in building robust infrastructures and exploring cloud and DevOps technologies. I'm currently honing my skills in deploying cloud-native applications and optimizing system performance. As a lifelong learner, I'm dedicated to expanding my knowledge and gaining hands-on experience in designing scalable and resilient solutions. With a focus on continuous improvement, I embrace challenges and actively seek opportunities to grow as a professional. Join me on this exciting journey as I navigate the world of backend engineering, leveraging cloud platforms and DevOps practices to create innovative solutions that deliver exceptional user experiences. Let's learn, collaborate, and build together!
 
 ## 💻 Technologies & Tools
 
