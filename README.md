@@ -44,7 +44,7 @@ With a focus on continuous improvement, I embrace challenges and actively seek o
 You can find me on:
 
 - [LinkedIn](https://linkedin.com/in/obimadu)
-- [Twitter](https://twitter.com/obiNinja)
+- [Twitter](https://twitter.com/realObiM)
 - [Website/Blog](https://obimadu.pro)
 
 <!--
