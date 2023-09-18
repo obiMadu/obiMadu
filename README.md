@@ -8,7 +8,7 @@ With a focus on continuous improvement, I embrace challenges and actively seek o
 ### **Languages** <br>
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=linux&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
+![Golang](https://img.shields.io/badge/Java-ED8B00?logo=golang&logoColor=white&style=for-the-badge)
 
 ### **Platforms** <br>
 ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge)
