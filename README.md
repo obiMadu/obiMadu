@@ -4,7 +4,7 @@ I'm an enthusiastic Cloud/DevOps/Infrastructure engineering associate with a kee
 
 ## 🛠 Tools and Technologies
 
-Name | Badges
+Group | Badges
 --- | --- 
 **Languages**  |  ![Go](https://img.shields.io/badge/Golang-black?logo=go&logoColor=white&style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=linux&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 **CI (Git)** |  ![github](https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge) ![bitbucket](https://img.shields.io/badge/bitbucket-02569B?logo=bitbucket&logoColor=white&style=for-the-badge) ![azure-repos](https://img.shields.io/badge/azure_repos-20232A?logo=azure-devops&logoColor=blue&style=for-the-badge) 
