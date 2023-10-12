@@ -18,7 +18,8 @@ Name | Badges
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elastic-stack&logoColor=white&style=for-the-badge)
 -->
 
-<hr>
+<br/>
+<hr/>
 
 ## 🧑‍🤝‍🧑 Soft skills
 ✅ Good communication skills.
@@ -27,7 +28,7 @@ Name | Badges
 
 ✅ Meet tight deadlines
 
-<hr>
+<hr/>
 
 ## 🔗 Connect with Me
 [![email](https://img.shields.io/badge/email-ffffff?style=for-the-badge&logo=telegram&logoColor=black)](mailto:mail@obimadu.pro)
@@ -36,3 +37,11 @@ Name | Badges
 [![portfolio](https://img.shields.io/badge/my_portfolio-red?style=for-the-badge&logo=ko-fi&logoColor=white)](https://obimadu.pro)
 
 Let's collaborate and build amazing things together!
+
+<hr>
+
+## Stats.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obiMadu&layout=compact&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=obiMadu&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Obi's github stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obiMadu&theme=dark" alt="obiMadu" /></p>
