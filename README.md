@@ -1,6 +1,6 @@
 # Hello, I'm Obi! 👋
 
-I'm an enthusiastic Cloud/DevOps/Infrastructure engineering associate with a keen interest in building robust Infrastructures and exploring Cloud and DevOps technologies. I'm currently honing my skills in deploying cloud-native applications and optimizing system performance. As a lifelong learner, I'm dedicated to expanding my knowledge and gaining hands-on experience in designing scalable and resilient solutions. <br><br>
+I'm an enthusiastic cloud|devOps|infrastructure engineering associate with a keen interest in building robust Infrastructures and exploring Cloud and DevOps technologies. I'm currently honing my skills in deploying cloud-native applications and optimizing system performance. As a lifelong learner, I'm dedicated to expanding my knowledge and gaining hands-on experience in designing scalable and resilient solutions. <br><br>
 
 ## 🛠 Tools and Technologies
 
