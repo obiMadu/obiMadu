@@ -2,7 +2,7 @@
 
 I'm an enthusiastic Cloud/DevOps/Infrastructure engineering associate with a keen interest in building robust Infrastructures and exploring Cloud and DevOps technologies. I'm currently honing my skills in deploying cloud-native applications and optimizing system performance. As a lifelong learner, I'm dedicated to expanding my knowledge and gaining hands-on experience in designing scalable and resilient solutions. <br><br>
 
-### 🛠 Tools and Technologies
+## 🛠 Tools and Technologies
 
 Name | Badges
 --- | --- 
@@ -40,7 +40,7 @@ Let's collaborate and build amazing things together!
 
 <hr>
 
-## Stats.
+## 💻 Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obiMadu&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=obiMadu&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Obi's github stats" /></p>
 
