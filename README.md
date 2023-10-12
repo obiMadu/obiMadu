@@ -13,9 +13,7 @@ Name | Badges
 **AUTOMATION & IAC**  |  ![ansible](https://img.shields.io/badge/ansible-000000?logo=ansible&logoColor=white&style=for-the-badge) ![terraform](https://img.shields.io/badge/terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge)
 
 <!--
-### **Monitoring & Logging** <br>
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elastic-stack&logoColor=white&style=for-the-badge)
+### **Monitoring & Logging** |  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge) ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elastic-stack&logoColor=white&style=for-the-badge)
 -->
 
 <br/>
@@ -38,6 +36,7 @@ Name | Badges
 
 Let's collaborate and build amazing things together!
 
+<!--
 <hr>
 
 ## 💻 Stats
@@ -45,3 +44,5 @@ Let's collaborate and build amazing things together!
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=obiMadu&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Obi's github stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obiMadu&theme=dark" alt="obiMadu" /></p>
+
+-->
