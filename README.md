@@ -29,7 +29,7 @@ Group | Badges
 <hr/>
 
 ## 🔗 Connect with Me
-[![email](https://img.shields.io/badge/email-ffffff?style=for-the-badge&logo=telegram&logoColor=black)](mailto:mail@obimadu.pro)
+[![email](https://img.shields.io/badge/email-ffffff?style=for-the-badge&logo=telegram&logoColor=black)](mailto:hello@obimadu.pro)
 [![portfolio](https://img.shields.io/badge/resume_&_links-20232A?style=for-the-badge&logo=ko-fi&logoColor=white)](https://obimadu.pro) [![x](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/realObiM)
 
 Let's collaborate and build amazing things together!
