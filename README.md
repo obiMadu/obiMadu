@@ -30,8 +30,8 @@ Group | Badges
 <hr/>
 
 ## 🔗 Connect with Me
-[![email](https://img.shields.io/badge/email-ffffff?style=for-the-badge&logo=telegram&logoColor=black)](mailto:hello@obimadu.pro)
-[![portfolio](https://img.shields.io/badge/resume_&_links-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://obimadu.pro)
+[![email](https://img.shields.io/badge/email-ffffff?style=for-the-badge&logo=telegram&logoColor=black)](mailto:hello@obimadu.pro) [![portfolio](https://img.shields.io/badge/resume_&_links-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://obimadu.pro)
+
 Let's collaborate and build amazing things together!
 
 <!--
