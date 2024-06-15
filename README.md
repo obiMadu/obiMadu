@@ -6,7 +6,7 @@ An enthusiastic cloud|devOps|infrastructure engineering associate with a keen in
 
 Group | Badges
 --- | --- 
-**Languages**  |  ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=linux&logoColor=white&style=for-the-badge) ![go](https://img.shields.io/badge/Golang-white?logo=go&logoColor=blue&style=for-the-badge) ![yaml](https://img.shields.io/badge/YAML-black?logo=yaml&logoColor=white&style=for-the-badge)
+**Languages**  |  ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=linux&logoColor=white&style=for-the-badge) ![go](https://img.shields.io/badge/Golang-ash?logo=go&logoColor=blue&style=for-the-badge) ![yaml](https://img.shields.io/badge/YAML-black?logo=yaml&logoColor=white&style=for-the-badge)
 **Version Control** |  ![github](https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge) ![bitbucket](https://img.shields.io/badge/bitbucket-02569B?logo=bitbucket&logoColor=white&style=for-the-badge) ![azure-repos](https://img.shields.io/badge/azure_repos-20232A?logo=azure-devops&logoColor=blue&style=for-the-badge) 
 **CD Tools**  |  ![jenkins](https://img.shields.io/badge/jenkins-black?logo=jenkins&logoColor=white&style=for-the-badge) ![github-actions](https://img.shields.io/badge/github_actions-white?logo=github-actions&logoColor=black&style=for-the-badge)
 **Automation & IaC**  |  ![ansible](https://img.shields.io/badge/ansible-000000?logo=ansible&logoColor=white&style=for-the-badge) ![terraform](https://img.shields.io/badge/terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge)
