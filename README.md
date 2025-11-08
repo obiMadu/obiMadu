@@ -34,6 +34,10 @@ Group | Badges
 ## 🔗 Connect with Me
 [![email](https://img.shields.io/badge/email-ffffff?style=for-the-badge&logo=telegram&logoColor=black)](mailto:hello@obimadu.pro) [![portfolio](https://img.shields.io/badge/resume_&_links-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://obimadu.pro)
 
+## 🧑‍🤝‍🧑 Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obimadu&show_icons=true&locale=en" alt="obimadu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obimadu&" alt="obimadu" /></p>
+
 Let's collaborate and build amazing things together!
 
 <!--
