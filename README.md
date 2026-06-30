@@ -2,7 +2,7 @@
 
 # Hey, I'm Obi 👋
 
-AI Engineer & Technical Founder. I build AI-native products across the full SDLC — from React Native mobile apps to FastAPI backends to cloud infrastructure. Currently shipping autonomous multi-agent systems in finance, cybersecurity, and consumer AI, with a deep infrastructure foundation in Kubernetes, Terraform, and self-hosted AI inference. Founded two companies, led teams of 25+, and keep things at 99%+ uptime. <br><br>
+AI Engineer & Technical Founder. I build AI-native products across the full SDLC — from React Native mobile apps to FastAPI backends to cloud infrastructure. Currently shipping autonomous multi-agent systems in finance, cybersecurity, and consumer AI, with a deep infrastructure foundation in Kubernetes, Terraform, and self-hosted AI inference. Founded two companies, led teams of 25+, etc. <br><br>
 
 ## 🛠 Tools and Technologies
 
