@@ -1,4 +1,4 @@
-![Profile Banner](banner.png)
+![Profile Banner](profile-banner.png)
 
 # Hey, I'm Obi 👋
 
